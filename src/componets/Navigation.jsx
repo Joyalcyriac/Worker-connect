@@ -8,7 +8,7 @@ function Navigation() {
   return (
     <nav className='navbar'>
       <Link to="/" className='logo'>
-        <h1>workers connect</h1>
+        <h1 className='navhead'>workers connect</h1>
       </Link>
       <ul className='nav-list'>
         <li>

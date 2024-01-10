@@ -1,6 +1,6 @@
 /* styles for the background */
 .background {
-    background-image: url('https://cdn.pixabay.com/photo/2022/11/30/20/25/mountains-7627600_1280.jpg');
+    background-image: url('https://www.syte.ai/wp-content/webp-express/webp-images/uploads/2021/10/Glossary-Images-1-24_23-1024x625.jpg.webp');
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -70,5 +70,5 @@ button:hover {
 }
 
 h2 {
-    color: rgb(143, 4, 223);
+    color: rgb(4, 121, 255);
 }
